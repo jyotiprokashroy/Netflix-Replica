@@ -1,1 +1,1 @@
-# Netflix-Replica
+This GitHub repository contains the source code and assets for a Netflix replica web application. This project aims to recreate the user interface and basic functionality of the popular streaming service Netflix. It's intended for educational and learning purposes, and not for commercial use.
